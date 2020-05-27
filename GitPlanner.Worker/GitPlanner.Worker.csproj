@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>dotnet-GitPlanner-60B5BB81-75BB-4146-B324-14F2008DFC1C</UserSecretsId>
+    <UserSecretsId>dotnet-GitPlanner.Worker-75525804-8D31-4339-ABDA-D40C4EA5057F</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
